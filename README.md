@@ -11,6 +11,7 @@
 ## How to use?
 CLI commands a person can use are like
 ```
+- sudo npm install -g ./
 - coffee-shop list
 - coffee-shop order [type] -d --sugar-level low ...
 ```
