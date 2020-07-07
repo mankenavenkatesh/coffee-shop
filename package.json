@@ -1,0 +1,29 @@
+{
+  "name": "coffee-shop",
+  "version": "1.0.0",
+  "description": "-  A CLI application using NodeJs -  npm modules used - (Commander.js, Inquirer.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mankenavenkatesh/coffee-shop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mankenavenkatesh/coffee-shop/issues"
+  },
+  "homepage": "https://github.com/mankenavenkatesh/coffee-shop#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.3.0",
+    "pad": "^3.2.0"
+  },
+  "bin": {
+    "coffee-shop": "./bin/index.js"
+  }
+}
